@@ -1,8 +1,7 @@
 # Diabetes Prediction
 [Website of our project]=>(https://checkyourdiabetes.herokuapp.com/)
 
-![Image]
-(https://github.com/Shobhitthebeginner/DiabetesWithDjango/blob/master/static/img/diabetes1.jpg)
+![Image](https://github.com/Shwetank2101/Wine-Quality-Prdiction/blob/master/static/images/wine.jpg)
 
 Our objective is to predict whether an individual have diabetes or not using machine learning algorithms.
 A large dataset is considered and this predictor is modelled to analyse the diabetes possiblity of a person through different parameters like Glucose,BloodPressure,
