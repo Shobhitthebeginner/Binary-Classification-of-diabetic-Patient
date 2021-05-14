@@ -1,7 +1,8 @@
 # Diabetes Prediction
 [Website of our project]=>(https://checkyourdiabetes.herokuapp.com/)
 
-![Image] (https://github.com/Shobhitthebeginner/DiabetesWithDjango/blob/master/static/img/diabetes1.jpg)
+![Image]
+(https://github.com/Shobhitthebeginner/DiabetesWithDjango/blob/master/static/img/diabetes1.jpg)
 
 Our objective is to predict whether an individual have diabetes or not using machine learning algorithms.
 A large dataset is considered and this predictor is modelled to analyse the diabetes possiblity of a person through different parameters like Glucose,BloodPressure,
@@ -67,7 +68,7 @@ Accuracy from K-Nearest Neighbours is 78.06 %
 Accuracy from Support Vector Machine algorithm is 70.36 %
 
 ## Conclusion
-The Dataset consit of 8 attributes. One (Outcome) is dependent variable and the others are predictors. The experiments show that the value of the dependent variable can be predicted more accurately if only important features are considered in prediction rather than considering all features.
+The Dataset consist of 8 attributes. One (Outcome) is dependent variable and the others are predictors. The experiments show that the value of the dependent variable can be predicted more accurately if only important features are considered in prediction rather than considering all features.
 In this work, machine learning techniques are used to determine wheter a person has diabetes or not. We have analysed that there are some variables which have a strong effect on our output variables and they are: Insulin, BMI, Age and Blood Pressure. After applying all the Machine Learning Algorithms, we have realised that Gradient Boosting Algorithm gives the best result in terms of accuracy of 82.89 %.
 
 ## Developers
