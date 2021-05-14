@@ -3,7 +3,7 @@
 
 ![Image] (https://github.com/Shobhitthebeginner/DiabetesWithDjango/blob/master/static/img/diabetes1.jpg)
 
-Our objective is to predict the possiblity of an individual of having diabetes using machine learning algorithms.
+Our objective is to predict whether an individual have diabetes or not using machine learning algorithms.
 A large dataset is considered and this predictor is modelled to analyse the diabetes possiblity of a person through different parameters like Glucose,BloodPressure,
 Skin Thickness,Insulin etc.
 All these parameters will be analysed through Machine Learning algorithms which will helps us to predict whether person is diabetic or not. 
